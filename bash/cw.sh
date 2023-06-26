@@ -1,6 +1,7 @@
 #!/bin/bash
 
 echo "cURLWall: HTTP request flooder for Great Firewall"
+echo "Version 0.1.0"
 echo "Starting..."
 sleep 2s
 
